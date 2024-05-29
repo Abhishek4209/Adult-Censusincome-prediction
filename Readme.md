@@ -9,6 +9,10 @@
 https://youtu.be/AdK1KyHy87o?si=1TKDGUKbD1gbV_r2
 ```
 
+## Deployment URL:
+```bash
+https://adult-censusincome-prediction.onrender.com
+```
 
 
 
