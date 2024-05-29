@@ -1,4 +1,6 @@
 # Adult Census Income Prediction 
+
+## Domain ----> Finance 
 ![alt text](image.png)
 
 ## Problem Statement:-
