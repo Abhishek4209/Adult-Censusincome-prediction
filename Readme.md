@@ -3,6 +3,17 @@
 ## Domain ----> Finance 
 ![alt text](image.png)
 
+
+## Demo Video:
+```bash
+https://youtu.be/AdK1KyHy87o?si=1TKDGUKbD1gbV_r2
+```
+
+
+
+
+
+
 ## Problem Statement:-
 The Goal is to predict whether a person has an income of more than 50K a year or not. 
 This is basically a binary classification problem where a person is classified into the 
