@@ -23,3 +23,24 @@ learning algorithms that’s best fit for the above case.
 ```
 
 
+## Run the prediction script:
+#### Copy code
+python application.py
+#### Input the characteristics of the diamond when prompted, such as 'age','workclass', 'fnlwgt', 'education', 'marital-status','occupation','relationship', 'race', 'sex', 'capital-gain','capital-loss', 'hours-per-week', 'country'.
+
+
+#### The predicted income of the Adult census  will be displayed.
+
+
+## Future Improvements:
+
+Experiment with different machine learning algorithms to improve prediction accuracy.
+Perform feature engineering to extract more relevant information from the dataset.
+Collect additional data to further train and validate the model.
+
+
+
+## Contributors:
+
+➡️ABHISHEK UPADHYAY
+➡️Email id: abhishekupadhyay9336@gmail.com
